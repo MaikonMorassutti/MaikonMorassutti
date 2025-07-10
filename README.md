@@ -63,7 +63,7 @@
 
 <!-- YT LIST START -->
 
-[<img src="https://i.ytimg.com/vi/TRAzo48Souc/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=TRAzo48Souc)
+[<img src="https://i.ytimg.com/vi/TRAzo48Souc/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=rMRB_3IFVDI&t=1s&ab_channel=MaikonMorassutti)
 &nbsp;&nbsp;
 **[▶️ JOGO DIFICIL, JOGADO ATÉ O FINAL!!!)](https://www.youtube.com/watch?v=rMRB_3IFVDI&t=1s&ab_channel=MaikonMorassutti))**
 <br /> &nbsp;&nbsp;&nbsp;1 semana atrás
@@ -71,7 +71,7 @@
 
 <!-- YT LIST END -->
 
-Mais vídeos do Maikon destruindo no Xadrez? [Veja meu Canal do Youtube.](https://www.youtube.com/@maikonmorassutti4847)
+Mais vídeos do Maikon indo do zero até se tornar Grande Mestre de Xadrezz? [Veja meu Canal do Youtube.](https://www.youtube.com/@maikonmorassutti4847)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
@@ -86,14 +86,14 @@ Mais vídeos do Maikon destruindo no Xadrez? [Veja meu Canal do Youtube.](https:
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
+			<a href="(https://github.com/MaikonMorassutti/academia)">
       <img src="./.github/assets/icons/angular.webp" />
       </a>
       </td>
 			<td valign="top">
-			<h3>Angular Playground</h3>
-			<p>Exemplos práticos das principais competências de Angular.</p>
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
+			<h3>Dashboard Controle Equipe</h3>
+			<p>Dashboard completo para controle de atividades da sua equipe.</p>
+			<a href="(https://github.com/MaikonMorassutti/controleatividadesequipe)">
  			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
 			</a>
 			</td>
