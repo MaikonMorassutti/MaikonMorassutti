@@ -91,9 +91,9 @@ Mais vídeos do Maikon indo do zero até se tornar Grande Mestre de Xadrezz? [Ve
       </a>
       </td>
 			<td valign="top">
-			<h3>Dashboard Controle Equipe</h3>
+			<h3>Dashboard para acompanhar seus treinos na academia</h3>
 			<p>Dashboard completo para controle de atividades da sua equipe.</p>
-			<a href="(https://github.com/MaikonMorassutti/controleatividadesequipe)">
+			<a href="(https://github.com/MaikonMorassutti/academia)">
  			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
 			</a>
 			</td>
