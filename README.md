@@ -1,6 +1,7 @@
 <div align="center">
 <!-- <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/> -->
-  <img height="350em" src="./.github/assets/banner.png"/>
+  <img height="350em" src
+="./.github/assets/banner.png"/>
 </div>
 
 <h3 align="center">
@@ -64,13 +65,13 @@
 
 [<img src="https://i.ytimg.com/vi/TRAzo48Souc/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=TRAzo48Souc)
 &nbsp;&nbsp;
-**[▶️ O QUE É REALMENTE UMA API (SEGUNDO UM SÊNIOR)](https://www.youtube.com/watch?v=TRAzo48Souc)**
+**[▶️ JOGO DIFICIL, JOGADO ATÉ O FINAL!!!)](https://www.youtube.com/watch?v=rMRB_3IFVDI&t=1s&ab_channel=MaikonMorassutti))**
 <br /> &nbsp;&nbsp;&nbsp;1 semana atrás
 <img align="center" width="100%" height="0" />
 
 <!-- YT LIST END -->
 
-Mais vídeos do Felipão? [Veja meu Canal do Youtube.](https://www.youtube.com/@devaguia)
+Mais vídeos do Maikon destruindo no Xadrez? [Veja meu Canal do Youtube.](https://www.youtube.com/@maikonmorassutti4847)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
