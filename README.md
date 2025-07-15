@@ -1,77 +1,88 @@
 <div align="center">
-<!-- <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/> -->
-  <img height="350em" src
-="./.github/assets/banner.png"/>
+<!-- Certifique-se de que o caminho para o seu banner está correto no seu repositório de perfil -->
+<img height="350em" src="./.github/assets/banner.png" alt="Banner do Perfil"/>
 </div>
 
 <h3 align="center">
-  FullStack Developer • Eng. de Produção • Industrial
+Maikon Morassutti
 </h3>
 
-<div align='center'>
+<h4 align="center">
+Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Processos
+</h4>
 
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeAguiarCode&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%"
- height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAguiarCode&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-</div>
-
-</div>
-
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
-<div><br />
-
-<p><strong>About me</strong></p>
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Maikon Morassutti and I am a FullStack Developer and Graduate in Prodction Engineer and postgraduate degree in computer engineering.. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is Html, Python, Java and NodeJs with React.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> I'm a Process coordinator at Plotter-Racks and  independent full stack programmers.
-
-## &nbsp;My Stack
-
-<img src="https://skillicons.dev/icons?i=vscode,html,js,ts,nodejs,py,nextjs,git,github,postgres&theme=dark" />
-
-#
-
-  <p><strong>Entre em contato comigo</strong></p>
-
-<div align="left">
-  <a href="(https://www.linkedin.com/in/maikon-morassutti-42972132/)" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
-</div>
-
-#
-
-<h3>Contact Me</h3>
-<div align="left">
-<p>
+<div align="center">
 <a href="mailto:maikon.morassutti@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+<img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4" alt="E-mail">
 </a>
-<a href="https://www.linkedin.com/in/maikon-morassutti-42972132/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/@devaguia/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p>
+<a href="https://www.linkedin.com/in/maikon-morassutti-42972132/">
+<img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
+<a href="https://www.youtube.com/@maikonmorassutti4847">
+<img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Youtube">
+</a>
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
-## 🎬 &nbsp;My Last Youtube Videos
-
-<!-- YT LIST START -->
-
-[<img src="https://i.ytimg.com/vi/TRAzo48Souc/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=rMRB_3IFVDI&t=1s&ab_channel=MaikonMorassutti)
-&nbsp;&nbsp;
-**[▶️ JOGO DIFICIL, JOGADO ATÉ O FINAL!!!)](https://www.youtube.com/watch?v=rMRB_3IFVDI&t=1s&ab_channel=MaikonMorassutti))**
-<br /> &nbsp;&nbsp;&nbsp;1 semana atrás
-<img align="center" width="100%" height="0" />
-
-<!-- YT LIST END -->
-
-Mais vídeos do Maikon indo do zero até se tornar Grande Mestre de Xadrez? [Veja meu Canal do Youtube.](https://www.youtube.com/@maikonmorassutti4847)
+<!-- Barra separadora decorativa -->
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
+👨‍💻 Sobre Mim
+<p>
+
+👋 Olá! Me chamo <strong>Maikon Morassutti</strong> e sou um Desenvolvedor Full Stack, com formação em Engenharia de Produção e pós-graduação em Engenharia de Computação.
+<br />
+
+🧠 Meu objetivo atual é me aprofundar em arquitetura de sistemas para me tornar um <strong>Arquiteto de Software</strong>.
+<br />
+
+🏢 Atualmente, atuo como <strong>Coordenador de Processos</strong> na Plotter-Racks e também como <strong>Desenvolvedor Full Stack</strong> de forma independente.
+<br />
+
+💬 Adoro interagir com novas pessoas, compartilhar conhecimentos e aprender continuamente.
+</p>
+
+🚀 Tecnologias e Ferramentas
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,postgres,git,github,vscode,figma&theme=dark" alt="Ícones de Habilidades"/>
+</p>
+
+📊 Minhas Estatísticas do GitHub
+<!--
+IMPORTANTE: Troque 'felipeAguiarCode' pelo SEU nome de usuário do GitHub para que as estatísticas funcionem corretamente.
+-->
+
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeAguiarCode&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" alt="Estatísticas do GitHub de Maikon" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAguiarCode&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" alt="Linguagens mais usadas por Maikon" />
+</div>
+
+<!-- Barra separadora decorativa -->
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+🎬 Meu Último Vídeo no YouTube
+<!-- LISTA DE VÍDEOS DO YOUTUBE: INÍCIO -->
+
+<!--
+Você pode atualizar esta seção manualmente ou usar uma GitHub Action para atualizar automaticamente.
+Procure por 'gautamkrishnar/blog-post-workflow' para automatizar.
+-->
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=rMRB_3IFVDI">
+<!-- A imagem abaixo agora aponta para o seu repositório. Faça o upload de 'thumbyt.png' para a pasta .github/assets/ -->
+<img src="./.github/assets/thumbyt.png" width="400" alt="Thumbnail do último vídeo" />
+</a>
+<p>
+<strong>▶️ JOGO DIFICIL, JOGADO ATÉ O FINAL!!!</strong>
+</p>
+<p>
+Quer ver mais vídeos sobre xadrez e outros tópicos? <a href="https://www.youtube.com/@maikonmorassutti4847">Visite meu canal!</a>
+</p>
+</div>
+<!-- LISTA DE VÍDEOS DO YOUTUBE: FIM -->
+
+<!-- Barra separadora decorativa -->
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
