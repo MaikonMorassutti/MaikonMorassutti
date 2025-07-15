@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Certifique-se de que o caminho para o seu banner está correto no seu repositório de perfil -->
-<img height="350em" src="./.github/assets/banner.png" alt="Banner do Perfil"/>
+<img height="350em" src="./.github/assets/banner.jpg" alt="Banner do Perfil"/>
 </div>
 
 <h3 align="center">
@@ -49,12 +49,12 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Process
 
 📊 Minhas Estatísticas do GitHub
 <!--
-IMPORTANTE: Troque 'felipeAguiarCode' pelo SEU nome de usuário do GitHub para que as estatísticas funcionem corretamente.
+IMPORTANTE: Lembre-se de usar seu nome de usuário 'MaikonMorassutti' para que as estatísticas funcionem corretamente.
 -->
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeAguiarCode&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" alt="Estatísticas do GitHub de Maikon" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAguiarCode&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" alt="Linguagens mais usadas por Maikon" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaikonMorassutti&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117" alt="Estatísticas do GitHub de Maikon" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonMorassutti&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=0d1117" alt="Linguagens mais usadas por Maikon" />
 </div>
 
 <!-- Barra separadora decorativa -->
