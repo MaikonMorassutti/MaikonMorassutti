@@ -30,16 +30,16 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Process
 👨‍💻 Sobre Mim
 <p>
 
-👋 Olá! Me chamo <strong>Maikon Morassutti</strong> e sou um Desenvolvedor Full Stack, com formação em Engenharia de Produção e pós-graduação em Engenharia de Computação.
+👋 Olá! Chamo-me <strong>Maikon Morassutti</strong> e sou um Desenvolvedor Full Stack, com formação em Engenharia de Produção e pós-graduação em Engenharia de Computação.
 <br />
 
-🧠 Meu objetivo atual é me aprofundar em arquitetura de sistemas para me tornar um <strong>Arquiteto de Software</strong>.
+🧠 O meu objetivo atual é aprofundar-me em arquitetura de sistemas para me tornar um <strong>Arquiteto de Software</strong>.
 <br />
 
 🏢 Atualmente, atuo como <strong>Coordenador de Processos</strong> na Plotter-Racks e também como <strong>Desenvolvedor Full Stack</strong> de forma independente.
 <br />
 
-💬 Adoro interagir com novas pessoas, compartilhar conhecimentos e aprender continuamente.
+💬 Adoro interagir com novas pessoas, partilhar conhecimentos e aprender continuamente.
 </p>
 
 🚀 Tecnologias e Ferramentas
@@ -49,7 +49,7 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Process
 
 📊 Minhas Estatísticas do GitHub
 <!--
-IMPORTANTE: Lembre-se de usar seu nome de usuário 'MaikonMorassutti' para que as estatísticas funcionem corretamente.
+IMPORTANTE: Lembre-se de usar o seu nome de utilizador 'MaikonMorassutti' para que as estatísticas funcionem corretamente.
 -->
 
 <div align="center">
@@ -65,7 +65,7 @@ IMPORTANTE: Lembre-se de usar seu nome de usuário 'MaikonMorassutti' para que a
 <!-- LISTA DE VÍDEOS DO YOUTUBE: INÍCIO -->
 
 <!--
-Você pode atualizar esta seção manualmente ou usar uma GitHub Action para atualizar automaticamente.
+Pode atualizar esta secção manualmente ou usar uma GitHub Action para atualizar automaticamente.
 Procure por 'gautamkrishnar/blog-post-workflow' para automatizar.
 -->
 
@@ -78,7 +78,7 @@ Procure por 'gautamkrishnar/blog-post-workflow' para automatizar.
 <strong>▶️ JOGO DIFICIL, JOGADO ATÉ O FINAL!!!</strong>
 </p>
 <p>
-Quer ver mais vídeos sobre xadrez e outros tópicos? <a href="https://www.youtube.com/@maikonmorassutti4847">Visite meu canal!</a>
+Quer ver mais vídeos sobre xadrez e outros tópicos? <a href="https://www.youtube.com/@maikonmorassutti4847">Visite o meu canal!</a>
 </p>
 </div>
 <!-- LISTA DE VÍDEOS DO YOUTUBE: FIM -->
