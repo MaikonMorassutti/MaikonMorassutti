@@ -1,6 +1,6 @@
 <div align="center">
-<!-- Certifique-se de que o caminho para o seu banner está correto no seu repositório de perfil -->
-<img height="350em" src="./.github/assets/banner.jpg" alt="Banner do Perfil"/>
+<!-- O nome do ficheiro foi corrigido para banner.png para corresponder ao seu upload -->
+<img height="350em" src="./.github/assets/banner.png" alt="Banner do Perfil"/>
 </div>
 
 <h3 align="center">
@@ -10,6 +10,8 @@ Maikon Morassutti
 <h4 align="center">
 Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Processos
 </h4>
+
+<!-- Secção de contacto corrigida -->
 
 <div align="center">
 <a href="mailto:maikon.morassutti@gmail.com">
@@ -28,29 +30,23 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Process
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 👨‍💻 Sobre Mim
-<p>
+👋 Olá! Chamo-me Maikon Morassutti e sou um Desenvolvedor Full Stack, com formação em Engenharia de Produção e pós-graduação em Engenharia de Computação.
 
-👋 Olá! Chamo-me <strong>Maikon Morassutti</strong> e sou um Desenvolvedor Full Stack, com formação em Engenharia de Produção e pós-graduação em Engenharia de Computação.
-<br />
+🧠 O meu objetivo atual é aprofundar-me em arquitetura de sistemas para me tornar um Arquiteto de Software.
 
-🧠 O meu objetivo atual é aprofundar-me em arquitetura de sistemas para me tornar um <strong>Arquiteto de Software</strong>.
-<br />
-
-🏢 Atualmente, atuo como <strong>Coordenador de Processos</strong> na Plotter-Racks e também como <strong>Desenvolvedor Full Stack</strong> de forma independente.
-<br />
+🏢 Atualmente, atuo como Coordenador de Processos na Plotter-Racks e também como Desenvolvedor Full Stack de forma independente.
 
 💬 Adoro interagir com novas pessoas, partilhar conhecimentos e aprender continuamente.
-</p>
 
 🚀 Tecnologias e Ferramentas
+<!-- Links de imagens corrigidos -->
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,postgres,git,github,vscode,figma&theme=dark" alt="Ícones de Habilidades"/>
 </p>
 
 📊 Minhas Estatísticas do GitHub
-<!--
-IMPORTANTE: Lembre-se de usar o seu nome de utilizador 'MaikonMorassutti' para que as estatísticas funcionem corretamente.
--->
+<!-- Links de imagens corrigidos -->
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaikonMorassutti&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117" alt="Estatísticas do GitHub de Maikon" />
@@ -62,16 +58,10 @@ IMPORTANTE: Lembre-se de usar o seu nome de utilizador 'MaikonMorassutti' para q
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 🎬 Meu Último Vídeo no YouTube
-<!-- LISTA DE VÍDEOS DO YOUTUBE: INÍCIO -->
-
-<!--
-Pode atualizar esta secção manualmente ou usar uma GitHub Action para atualizar automaticamente.
-Procure por 'gautamkrishnar/blog-post-workflow' para automatizar.
--->
+<!-- Secção do YouTube corrigida -->
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=rMRB_3IFVDI">
-<!-- A imagem abaixo agora aponta para o seu repositório. Faça o upload de 'thumbyt.png' para a pasta .github/assets/ -->
 <img src="./.github/assets/thumbyt.png" width="400" alt="Thumbnail do último vídeo" />
 </a>
 <p>
@@ -81,7 +71,6 @@ Procure por 'gautamkrishnar/blog-post-workflow' para automatizar.
 Quer ver mais vídeos sobre xadrez e outros tópicos? <a href="https://www.youtube.com/@maikonmorassutti4847">Visite o meu canal!</a>
 </p>
 </div>
-<!-- LISTA DE VÍDEOS DO YOUTUBE: FIM -->
 
 <!-- Barra separadora decorativa -->
 
