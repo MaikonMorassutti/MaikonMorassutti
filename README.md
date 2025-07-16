@@ -26,7 +26,8 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 
 <br>
 
-👨‍💻 Sobre Mim
+
+👨‍💻 Sobre Mim:
 👋 Olá! Chamo-me Maikon Morassutti e sou um Desenvolvedor Full Stack, com formação em Engenharia de Produção e Administração de empresas com pós-graduação em Engenharia de Computação e Segurança cibernética.
 
 🧠 O meu objetivo atual é aprofundar-me em arquitetura de sistemas para me tornar um Arquiteto de Software. Além de me profissionalizar no Xadrez através do Mensa Brasil.
@@ -37,12 +38,14 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 
 <br>
 
-🚀 Tecnologias e Ferramentas
+
+🚀 Tecnologias e Ferramentas:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,postgres,git,github,vscode,figma&theme=dark" alt="Ícones de Habilidades"/>
 </p>
 
 <br>
+
 
 🏢 Projetos em que já atuei:
 <!-- Logos com altura padronizada, espaçamento e links corrigidos -->
@@ -64,7 +67,8 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 
 <br>
 
-📊 Minhas Estatísticas do GitHub
+
+📊 Minhas Estatísticas do GitHub:
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaikonMorassutti&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117" alt="Estatísticas do GitHub de Maikon" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonMorassutti&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=0d1117" alt="Linguagens mais usadas por Maikon" />
@@ -72,7 +76,8 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 
 <br>
 
-🎬 Meu Último Vídeo no YouTube
+
+🎬 Meu Último Vídeo no YouTube:
 <div align="center">
 <a href="https://www.youtube.com/watch?v=rMRB_3IFVDI" target="_blank">
 <img src="./.github/assets/thumbyt.png" width="400" alt="Thumbnail do último vídeo" />
