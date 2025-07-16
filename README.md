@@ -1,5 +1,4 @@
 <div align="center">
-<!-- O nome do ficheiro foi corrigido para banner.png para corresponder ao seu upload -->
 <img height="350em" src="./.github/assets/banner.png" alt="Banner do Perfil"/>
 </div>
 
@@ -11,7 +10,7 @@ Maikon Morassutti
 Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenharia de Processos • Project Manager
 </h4>
 
-<!-- Secção de contacto corrigida -->
+<!-- Secção de contacto -->
 
 <div align="center">
 <a href="mailto:maikon.morassutti@gmail.com">
@@ -44,30 +43,20 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 </p>
 
 🏢 Projetos em que já atuei:
-<!--
-INSTRUÇÕES:
-
-Substitua a URL em "href" pelo link do projeto/empresa.
-
-Para o logo, você pode usar o serviço 'shields.io' como no exemplo.
-
-Altere o "label" (ex: Itaú) e a cor (ex: EC7000).
-
-Encontre o nome do ícone desejado em https://simpleicons.org/
--->
+<!-- Secção atualizada para usar as suas imagens locais -->
 
 <p align="center">
-<a href="https://www.coca-cola.com/br/pt" target="_blank">
-<img src="https://img.shields.io/badge/Itaú-EC7000?style=for-the-badge&logo=itau&logoColor=white" alt="Itaú">
+<a href="https://www.coca-cola.com/" target="_blank">
+<img src="./.github/assets/cocacola.png" height="50" alt="Logo da Coca-Cola">
 </a>
-<a href="https://www.benandjerry.com.br/" target="_blank">
-<img src="https://img.shields.io/badge/Magazine%20Luiza-0086FF?style=for-the-badge&logo=magazine-luiza&logoColor=white" alt="Magazine Luiza">
+<a href="https://www.benjerry.com/" target="_blank">
+<img src="./.github/assets/benjrry.png" height="50" alt="Logo da Ben & Jerry's">
 </a>
 <a href="https://www.wellsfargo.com/" target="_blank">
-<img src="https://img.shields.io/badge/Nubank-8A05BE?style=for-the-badge&logo=nubank&logoColor=white" alt="Nubank">
+<img src="./.github/assets/wellsfargo.png" height="50" alt="Logo da Wells Fargo">
 </a>
-<a href="https://br.pg.com/" target="_blank">
-<img src="https://img.shields.io/badge/Globo-0046B4?style=for-the-badge&logo=globo&logoColor=white" alt="Globo">
+<a href="https://www.pg.com/" target="_blank">
+<img src="./.github/assets/peg.png" height="50" alt="Logo da P&G">
 </a>
 </p>
 
