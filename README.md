@@ -47,14 +47,14 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 
 <p align="center">
 <a href="https://www.coca-cola.com/" target="_blank">
-<img src="./.github/assets/cocacola.png" height="40" alt="Logo da Coca-Cola">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
+<img src="./.github/assets/cocacola.png" height="40" alt="Logo da Coca-Cola">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.benjerry.com/" target="_blank">
-<img src="./.github/assets/benjrry.png" height="40" alt="Logo da Ben & Jerry's">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
+<img src="./.github/assets/benjrry.png" height="40" alt="Logo da Ben & Jerry's">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.wellsfargo.com/" target="_blank">
-<img src="./.github/assets/wellsfargo.png" height="40" alt="Logo da Wells Fargo">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
+<img src="./.github/assets/wellsfargo.png" height="40" alt="Logo da Wells Fargo">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.pg.com/" target="_blank">
 <img src="./.github/assets/peg.png" height="40" alt="Logo da P&G">
 </a>
