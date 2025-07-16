@@ -43,7 +43,7 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 </p>
 
 🏢 Projetos em que já atuei:
-<!-- Logos com altura padronizada e espaçamento -->
+<!-- Logos com altura padronizada, espaçamento e links corrigidos -->
 
 <p align="center">
 <a href="https://www.coca-cola.com/" target="_blank">
