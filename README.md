@@ -24,10 +24,6 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 </a>
 </div>
 
-<!-- Barra separadora decorativa -->
-
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
 👨‍💻 Sobre Mim
 👋 Olá! Chamo-me Maikon Morassutti e sou um Desenvolvedor Full Stack, com formação em Engenharia de Produção e Administração de empresas com pós-graduação em Engenharia de Computação e Segurança cibernética.
 
@@ -65,10 +61,6 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaikonMorassutti&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117" alt="Estatísticas do GitHub de Maikon" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonMorassutti&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=0d1117" alt="Linguagens mais usadas por Maikon" />
 </div>
-
-<!-- Barra separadora decorativa -->
-
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 🎬 Meu Último Vídeo no YouTube
 <div align="center">
