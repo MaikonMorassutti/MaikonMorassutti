@@ -43,20 +43,20 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 </p>
 
 🏢 Projetos em que já atuei:
-<!-- Secção atualizada para usar as suas imagens locais -->
+<!-- Logos com altura padronizada e espaçamento -->
 
 <p align="center">
 <a href="https://www.coca-cola.com/" target="_blank">
-<img src="./.github/assets/cocacola.png" height="50" alt="Logo da Coca-Cola">
+<img src="./.github/assets/cocacola.png" height="40" alt="Logo da Coca-Cola">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://www.benjerry.com/" target="_blank">
-<img src="./.github/assets/benjrry.png" height="50" alt="Logo da Ben & Jerry's">
+<img src="./.github/assets/benjrry.png" height="40" alt="Logo da Ben & Jerry's">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://www.wellsfargo.com/" target="_blank">
-<img src="./.github/assets/wellsfargo.png" height="50" alt="Logo da Wells Fargo">
+<img src="./.github/assets/wellsfargo.png" height="40" alt="Logo da Wells Fargo">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://www.pg.com/" target="_blank">
-<img src="./.github/assets/peg.png" height="50" alt="Logo da P&G">
+<img src="./.github/assets/peg.png" height="40" alt="Logo da P&G">
 </a>
 </p>
 
