@@ -32,7 +32,7 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 
 🧠 O meu objetivo atual é aprofundar-me em arquitetura de sistemas para me tornar um Arquiteto de Software. 
 
-🏢 Atualmente, atuo como Coordenador de Engenharia de Processos na Plotter-Racks e também como Desenvolvedor Full Stack de forma independente.
+🏢 Atualmente, atuo como Coordenador de Engenharia de Processos na indústria e também como Desenvolvedor Full Stack de forma independente.
 
 💬 Adoro interagir com novas pessoas, partilhar conhecimentos e aprender continuamente.
 
