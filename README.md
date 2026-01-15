@@ -30,7 +30,7 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 👨‍💻 Sobre Mim:
 👋 Olá! Chamo-me Maikon Morassutti e sou um Desenvolvedor Full Stack, com formação em Engenharia de Produção e Administração de empresas com pós-graduação em Engenharia de Computação e Segurança cibernética.
 
-🧠 O meu objetivo atual é aprofundar-me em arquitetura de sistemas para me tornar um Arquiteto de Software. Além de me profissionalizar no Xadrez através do Mensa Brasil.
+🧠 O meu objetivo atual é aprofundar-me em arquitetura de sistemas para me tornar um Arquiteto de Software. 
 
 🏢 Atualmente, atuo como Coordenador de Engenharia de Processos na Plotter-Racks e também como Desenvolvedor Full Stack de forma independente.
 
