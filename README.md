@@ -1,6 +1,3 @@
-<div align="center">
-<img height="350em" src= alt="Banner do Perfil"/>
-</div>
 
 <h3 align="center">
 Maikon Morassutti
@@ -77,15 +74,3 @@ Desenvolvedor Full Stack • Engenheiro de Produção • Coordenador de Engenha
 <br>
 
 
-🎬 Meu Último Vídeo no YouTube:
-<div align="center">
-<a href="https://www.youtube.com/watch?v=rMRB_3IFVDI" target="_blank">
-<img src="./.github/assets/thumbyt.png" width="400" alt="Thumbnail do último vídeo" />
-</a>
-<p>
-<strong>▶️ JOGO DIFICIL, JOGADO ATÉ O FINAL!!!</strong>
-</p>
-<p>
-Quer ver mais vídeos sobre xadrez e outros tópicos? <a href="https://www.youtube.com/@maikonmorassutti4847" target="_blank">Visite o meu canal!</a>
-</p>
-</div>
